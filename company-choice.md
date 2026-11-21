@@ -39,7 +39,7 @@ Siempre he querido trabajar en una empresa de logística o en un emprendimiento 
 
 - Una recomendación clara por cada devolución.
 - Un registro de la devolución en la base de datos.
-- Un resumen (POR PEIODOS) con los productos y transportistas que más devoluciones generan.
+- Un resumen (POR PERIODOS) con los productos y transportistas que más devoluciones generan.
 
 **Línea de Proceso**
 Recibir la devolución → consultar los datos y el historial → recomendar qué hacer → actualizar el inventario → avisar al almacén → incluir el caso en el resumen semanal. Si el agente no está seguro, lo pasa a una persona para que decida.
