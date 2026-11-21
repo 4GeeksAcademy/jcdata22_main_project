@@ -16,3 +16,30 @@ Siempre he querido trabajar en una empresa de logística o en un emprendimiento 
 ## Reto de automatización o IA que más quiero construir
 
 **automatizada de logística inversa (devoluciones).** Quiero construir un sistema que registre cada devolución, la clasifique por motivo, y recomiende qué hacer con el producto: reingresarlo al inventario, repararlo, reenviarlo o descartarlo
+
+## Mi idea de agente IA
+
+**Agente de devoluciones:** un asistente que gestiona cada devolución de principio a fin y recomienda qué hacer con el producto.
+
+**Qué haría**
+
+1. Recibe el aviso de una devolución.
+2. Revisa los datos del pedido y entiende el motivo.
+3. Decide qué hacer con el producto: reingresarlo al inventario, repararlo, reenviarlo o descartarlo.
+4. Registra el resultado y avisa a la persona responsable.
+
+**Qué información necesitaría**
+
+- Datos del pedido: producto , cliente, fecha, destino y transportista.
+- El motivo de la devolución y el estado del producto.
+- El historial de devoluciones anteriores del mismo producto o transportista.
+- El inventario actual del almacén y el coste de cada opción.
+
+**Qué produciría**
+
+- Una recomendación clara por cada devolución.
+- Un registro de la devolución en la base de datos.
+- Un resumen (POR PEIODOS) con los productos y transportistas que más devoluciones generan.
+
+**Línea de Proceso**
+Recibir la devolución → consultar los datos y el historial → recomendar qué hacer → actualizar el inventario → avisar al almacén → incluir el caso en el resumen semanal. Si el agente no está seguro, lo pasa a una persona para que decida.
