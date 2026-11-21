@@ -17,7 +17,7 @@ Siempre he querido trabajar en una empresa de logística o en un emprendimiento 
 
 **automatizada de logística inversa (devoluciones).** Quiero construir un sistema que registre cada devolución, la clasifique por motivo, y recomiende qué hacer con el producto: reingresarlo al inventario, repararlo, reenviarlo o descartarlo
 
-## Mi idea de agente IA
+## My AI Agent Idea
 
 **Agente de devoluciones:** un asistente que gestiona cada devolución de principio a fin y recomienda qué hacer con el producto.
 
